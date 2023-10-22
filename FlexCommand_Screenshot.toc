@@ -1,0 +1,12 @@
+## Interface-Mainline: 111000
+## Interface-Classic: 11501
+## Interface-TBC: 20504
+## Interface-Wrath: 30403
+## Interface-Cata: 40400
+## Title: FlexCommand_Screenshot
+## Notes: FlexCommand Extension: Takes screenshots on events.
+## Author: Garrett HE <garrett.he@outlook.com>
+## Version: 0.1.0
+## Dependencies: FlexCommand
+
+main.lua
